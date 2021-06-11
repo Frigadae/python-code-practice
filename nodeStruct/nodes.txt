@@ -1,0 +1,5 @@
+Nodes (not to be confused with Node.Js) is a type of data structure comprised of a data variable and a pointer variable. 
+The data variable storing the value or data, the pointer storing the next node or None.
+
+A node is mostly used for linked lists which has can be applied as a form of computer storage implementation. 
+Nodes can have more than one pointer which can be utilised for tree data structures.
