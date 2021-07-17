@@ -1,3 +1,13 @@
+"""
+Program from a Hackerrank test question.
+The program is given an array of strings as input.
+Format includes location, month and amount of coffee consumed.
+The program calculates the average and total consumed over a period of time.
+
+Tip from some random youtube video: 
+When in doubt, throw a hashmap (dictionary in Python) at the problem.
+"""
+
 def main(inputList):
     cityList = {}
     returnList = []
